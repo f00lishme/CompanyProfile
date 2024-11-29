@@ -6,7 +6,8 @@ Lorem ipsum odor amet, consectetuer adipiscing elit. Sagittis at augue ligula ma
 lorem kedua
 Lorem ipsum odor amet, consectetuer adipiscing elit. Cras netus nec viverra, velit felis habitasse. Cras morbi feugiat commodo ligula quam habitasse. Duis finibus diam semper fringilla donec elementum. Ridiculus enim pellentesque ex, mollis imperdiet nibh. Commodo quam condimentum vulputate turpis suscipit imperdiet ex. Erat consequat in imperdiet ultricies dignissim. Justo molestie erat curae vitae at. Cras tempor id interdum sed quam nascetur placerat condimentum inceptos. Sapien erat potenti bibendum consequat libero.
 tes
-Struktur Data dasar
+asdfjasdfjasdfj
+
   *tes error 1
   >tes error 1
 
